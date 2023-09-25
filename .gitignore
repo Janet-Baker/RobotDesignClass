@@ -3,7 +3,9 @@ cmake-build-debug
 CMakeLists.txt
 CMakeLists_template.txt
 .idea
-MDK-ARM/*.uvguix.*
-MDK-ARM/stm32LED/
-MDK-ARM/EventRecorderStub.scvd
+stm32LED/MDK-ARM/*.uvguix.*
+stm32LED/MDK-ARM/stm32LED/
+stm32LED/MDK-ARM/EventRecorderStub.scvd
+stm32LED/MDK-ARM/RTE/_stm32LED/RTE_Components.h
+stm32LED/MDK-ARM/DebugConfig/stm32LED_STM32F103VC_1.0.0.dbgconf
 
