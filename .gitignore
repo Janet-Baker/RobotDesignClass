@@ -1,0 +1,9 @@
+cmake-build-debug-mingw-stm32
+cmake-build-debug
+CMakeLists.txt
+CMakeLists_template.txt
+.idea
+MDK-ARM/*.uvguix.*
+MDK-ARM/stm32LED/
+MDK-ARM/EventRecorderStub.scvd
+
